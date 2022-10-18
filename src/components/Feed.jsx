@@ -5,7 +5,7 @@ import { Box, Stack, Typography } from "@mui/material";
 import { fetchFromAPI } from "../utils/fetchData";
 import { Sidebar, Videos } from "./index";
 const Feed = () => {
-  const [selectedCategory, setSelectedCategory] = useState("New");
+  const [selectedCategory, setSelectedCategory] = useState("Marvel movies");
   const [videos, setVideos] = useState(null);
 
   useEffect(() => {

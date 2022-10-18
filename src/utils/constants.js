@@ -16,21 +16,21 @@ export const logo =
   "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/08/youtube_logo_dark.jpg?w=2500&quality=82&strip=all&ssl=1";
 
 export const categories = [
-  { name: "New", icon: <HomeIcon /> },
+  { name: "Marvel movies", icon: <HomeIcon /> },
   { name: "JS Mastery", icon: <CodeIcon /> },
-  { name: "Coding", icon: <CodeIcon /> },
+  { name: "Ponniyin Selvan", icon: <LiveTvIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
-  { name: "Music", icon: <MusicNoteIcon /> },
-  { name: "Education", icon: <SchoolIcon /> },
-  { name: "Podcast", icon: <GraphicEqIcon /> },
-  { name: "Movie", icon: <OndemandVideoIcon /> },
+  { name: "AR.Rahman Tamil", icon: <MusicNoteIcon /> },
+  { name: "Vadivelu Comedy", icon: <TheaterComedyIcon /> },
+  { name: "Ted talks", icon: <SchoolIcon /> },
+  { name: "Bookshow by Ananthi", icon: <GraphicEqIcon /> },
+  { name: "Superstar Rajnikanth Movie", icon: <OndemandVideoIcon /> },
   { name: "Gaming", icon: <SportsEsportsIcon /> },
   { name: "Live", icon: <LiveTvIcon /> },
   { name: "Sport", icon: <FitnessCenterIcon /> },
   { name: "Fashion", icon: <CheckroomIcon /> },
   { name: "Beauty", icon: <FaceRetouchingNaturalIcon /> },
-  { name: "Comedy", icon: <TheaterComedyIcon /> },
   { name: "Gym", icon: <FitnessCenterIcon /> },
   { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
