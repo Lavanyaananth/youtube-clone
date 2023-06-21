@@ -3,7 +3,7 @@ import { Box, CircularProgress, Stack } from "@mui/material";
 
 const Loader = () => {
   return (
-    <Box minHeight="95vh">
+    <Box minHeight="95vh" width="100%">
       <Stack
         direction="row"
         justifyContent="center"
